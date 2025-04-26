@@ -20,7 +20,7 @@ const Index: React.FC = () => {
     },
     {
       name: "Madora Weerasinghe",
-      role: "Learning Progress Updates",
+      role: "Learning Plan Updates",
       photo: teamMember2,
     },
     {
@@ -30,7 +30,7 @@ const Index: React.FC = () => {
     },
     {
       name: "Amanda Vihangani",
-      role: "Learning Plan Sharing",
+      role: "Learning Progress Sharing",
       photo: teamMember4,
     },
   ];
