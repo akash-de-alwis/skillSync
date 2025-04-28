@@ -5,7 +5,6 @@ The **Skill Sharing Platform** is a web application that connects individuals ea
 ## Features
 - **User Profiles**: Register and customize profiles to highlight skills offered or sought.
 - **Skill Listings**: Post or browse skill sessions with details like description, category, and schedule.
-- **Session Booking**: Book sessions with instructors and manage schedules.
 - **Learning Plans & Progress Tracking**: Set learning goals and monitor progress with personalized plans.
 - **Authentication**: Secure user login and registration using JWT.
 - **Responsive UI**: Access the platform seamlessly on desktop and mobile devices.
@@ -16,7 +15,7 @@ The **Skill Sharing Platform** is a web application that connects individuals ea
 The homepage showcases available skills and encourages users to sign up or explore.
 
 
-### Booking Page
+### Skill Listings
 ![Screenshot 2025-04-28 094102](https://github.com/user-attachments/assets/caf25401-04f4-45b4-aa21-e88bade9b260)
 The booking page lets users view session details and reserve a spot.
 
