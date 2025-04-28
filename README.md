@@ -101,12 +101,10 @@ Contributions are welcome! To contribute:
    ```
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For support or inquiries:
 - Email: akashdealwis@example.com (replace with your contact)
-- GitHub Issues: [Create an Issue](https://github.com/akash-de-alwis/skill-sharing-platform/issues)
+- GitHub Issues: [Create an Issue](https://github.com/akash-de-alwis)
 
 Happy learning and sharing!
